@@ -48,7 +48,7 @@
     </repositories>
 
     <distributionManagement>
-            <repository>
+      <!--      <repository>
   <id>flm-feed</id>
   <url>https://pkgs.dev.azure.com/afsanabegummd00/MyFirstProject/_packaging/flm-feed/maven/v1</url>
   <releases>
@@ -57,7 +57,7 @@
   <snapshots>
     <enabled>true</enabled>
   </snapshots>
-</repository>
+</repository> -->
         <snapshotRepository>
             <id>nexusRepo</id>
             <url>http://32.197.121.16:8081/repository/myrepo/</url>
